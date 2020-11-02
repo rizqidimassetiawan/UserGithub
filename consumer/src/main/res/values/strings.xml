@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">consumer</string>
+    <string name="no_data">Hi, You have no favourite user selected.</string>
+    <string name="repo">%s Repository</string>
+    <string name="favorite">Favorite</string>
+</resources>

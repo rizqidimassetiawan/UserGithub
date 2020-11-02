@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello_blank_fragment">Halo Fragment Kosong</string>
+    <string name="work_in">Work in</string>
+    <string name="location">Lokasi</string>
+    <string name="kosong">kosong</string>
+    <string name="separator">Separator</string>
+    <string name="count">Count</string>
+    <string name="follwing">Mengikuti</string>
+    <string name="follwer">Pengikut</string>
+    <string name="repo">%s Berkas</string>
+
+    <string name="value_followers">%s Pengikut</string>
+    <string name="value_following">%s Mengikuti</string>
+    <string name="bio">Bio</string>
+    <string name="search">Pencarian</string>
+    <string name="search_some_user">Cari Beberapa Pengguna</string>
+    <string name="label_dsc">Temukan Beberapa Pengguna Dan Tambahkan Mereka ke Favorit</string>
+    <string name="label_followers">Pengguna ini tidak memliki pengikut</string>
+    <string name="label_following">Pengguna ini tidak mengikuti siapapun</string>
+    <string name="favorite">Favorit</string>
+    <string name="no_data">Hai, anda tidak memilih pengguna favorit.</string>
+    <string name="setting">Pengaturan</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="detail">Detail Pengguna</string>
+    <string name="reminder_header">Pengingat</string>
+    <string name="reminder_title">Pengingat pada 09.00 Pagi</string>
+
+    <string name="message_title">Pengingat aplikasi Pengguna Github</string>
+    <string name="message">Hai.., Kami merindukanmu,kami akan senang jika kamu kembali</string>
+</resources>

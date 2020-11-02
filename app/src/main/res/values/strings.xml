@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name" translatable="false">My Submission</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="work_in">Work in</string>
+    <string name="location">Location</string>
+    <string name="kosong">NULL</string>
+    <string name="separator">Separator</string>
+    <string name="count">Count</string>
+    <string name="follwing">Following</string>
+    <string name="follwer">Followers</string>
+    <string name="repo">%s Repository</string>
+    <string name="icon_github" translatable="false">icon github</string>
+    <string name="value_followers">%s Followers</string>
+    <string name="value_following">%s Following</string>
+    <string name="bio">Bio</string>
+    <string name="search">search</string>
+    <string name="search_some_user">Search some User</string>
+    <string name="label_dsc">Find some user and add them to favorite</string>
+    <string name="label_followers">This user have no any followers</string>
+    <string name="label_following">This user have no any following</string>
+    <string name="favorite">Favorite</string>
+    <string name="no_data">Hi, You have no favourite user selected.</string>
+    <string name="setting">Setting</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="detail">Detail User</string>
+    <string name="reminder_header">Reminder</string>
+    <string name="reminder_title">Reminder at 9.00 AM</string>
+
+    <string name="message_title">Github User App Reminder</string>
+    <string name="message">Hi..., We miss You, We would feel glad if You come back</string>
+</resources>
